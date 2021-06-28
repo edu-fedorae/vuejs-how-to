@@ -21,3 +21,12 @@
   </div>
 </template>
 
+<script>
+// Component level scroll to top
+export default {
+  // mounted() {
+  //   window.scrollTo(0,0)
+  // }
+}
+</script>
+
