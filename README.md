@@ -1,4 +1,11 @@
-# vue-scroll-to-top
+# How to add scroll to top functionality in your vuejs project
+
+## Project installation
+```
+git clone https://github.com/edu-fedorae/vuejs-how-to.git
+git checkout scroll-to-top
+cd scroll-to-top
+```
 
 ## Project setup
 ```
@@ -15,5 +22,10 @@ yarn serve
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Lints and fixes files
+```
+yarn lint
+```
+
+### YouTube
+See [Playlist](https://www.youtube.com/watch?v=Re7FnxBVNoA&list=PL0kQPOHhjroJ1pQID3yvB8BomL_lkizq9).
