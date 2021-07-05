@@ -1,23 +1,30 @@
-# vuetify-client
+# How to add vue-router to an existing vue project
+
+## Project installation
+```
+git clone https://github.com/edu-fedorae/vuejs-how-to.git
+git checkout vue-router
+cd vuejs-how-to
+```
 
 ## Project setup
 ```
-npm install
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+yarn build
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+yarn lint
 ```
 
 ### YouTube
