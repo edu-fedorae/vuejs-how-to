@@ -1,4 +1,9 @@
-# vue-scroll-to-top
+# Vuejs How To Example
+```
+git clone https://github.com/edu-fedorae/vuejs-how-to.git
+cd vuejs-how-to
+git checkout branch
+```
 
 ## Project setup
 ```
@@ -15,5 +20,5 @@ yarn serve
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### YouTube
+See [Playlist](https://www.youtube.com/watch?v=Re7FnxBVNoA&list=PL0kQPOHhjroJ1pQID3yvB8BomL_lkizq9).
