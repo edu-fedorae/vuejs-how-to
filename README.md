@@ -3,8 +3,8 @@
 ## Project installation
 ```
 git clone https://github.com/edu-fedorae/vuejs-how-to.git
+cd vuejs-how-to
 git checkout scroll-to-top
-cd scroll-to-top
 ```
 
 ## Project setup
