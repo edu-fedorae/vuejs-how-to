@@ -1,8 +1,8 @@
-# Vuejs How To Example
+# Vuejs How To Examples
 ```
 git clone https://github.com/edu-fedorae/vuejs-how-to.git
 cd vuejs-how-to
-git checkout branch
+git checkout [branch]
 ```
 
 ## Project setup
