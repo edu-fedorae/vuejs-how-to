@@ -3,8 +3,8 @@
 ## Project installation
 ```
 git clone https://github.com/edu-fedorae/vuejs-how-to.git
-git checkout dynamic-layouts
 cd dynamic-layouts
+git checkout dynamic-layouts
 ```
 
 ## Project setup
