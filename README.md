@@ -3,8 +3,8 @@
 ## Project installation
 ```
 git clone https://github.com/edu-fedorae/vuejs-how-to.git
-git checkout vue-router
 cd vuejs-how-to
+git checkout vue-router
 ```
 
 ## Project setup
