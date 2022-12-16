@@ -1,30 +1,47 @@
-# How To Add Vuetify 3 To An Existing Vue 3 Project
+# How To Create a Vuetify 3 Project | How To Install Vuetify 3
 
 ## Project setup
+
 ```
-git clone https://github.com/edu-fedorae/vuejs-how-to.git repo-name
-cd repo-name
-git checkout add-vuetify3
-yarn install
+# yarn
+yarn
+
+# npm
+npm install
+
+# pnpm
+pnpm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
-yarn serve
+# yarn
+yarn dev
+
+# npm
+npm run dev
+
+# pnpm
+pnpm dev
 ```
 
 ### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
 ```
-yarn lint
+# yarn
+yarn build
+
+# npm
+npm run build
+
+# pnpm
+pnpm build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+See [Configuration Reference](https://vitejs.dev/config/).
 
 ### Watch Video Tutorial
-[![Video thumbnail](https://i.ytimg.com/vi/lg-1hIBE35Q/hqdefault.jpg)](https://www.youtube.com/watch?v=lg-1hIBE35Q&list=PL0kQPOHhjroKcfFbVzwJoXujvahpemEHV&index=10)
+[![Video thumbnail](https://i.ytimg.com/vi/g4L9VSbM4Z0/hqdefault.jpg)](https://www.youtube.com/watch?v=g4L9VSbM4Z0&list=PL0kQPOHhjroKcfFbVzwJoXujvahpemEHV&index=11)
