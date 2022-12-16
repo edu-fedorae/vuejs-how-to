@@ -3,6 +3,7 @@
 		<h1>Fedorae Education</h1>
 	</div>
 	<br />
-	<div>Vue 3 Application</div>
-	<div>Created without using the Vue CLI</div>
+	<div>
+		<strong>Vite Vuejs Application created without using the CLI</strong>
+	</div>
 </template>
