@@ -1,20 +1,20 @@
 {
-  "name": "vue-pwa-docker",
-  "version": "0.1.0",
-  "private": true,
+  "name": "vue3-app-no-cli",
+  "version": "1.0.0",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+  	"serve": "vue-cli-service serve",
+  	"build": "vue-cli-service build"
   },
+  "description": "Vue 3 Application Created Without Using The Vue CLI",
+  "main": "main.js",
+  "repository": "https://github.com/edu-fedorae/vue3-app-no-cli.git",
+  "author": "Yisrae",
+  "license": "MIT",
   "dependencies": {
-    "core-js": "^3.6.5",
-    "register-service-worker": "^1.7.1",
-    "vue": "^2.6.11"
+    "core-js": "^3.21.1",
+    "vue": "^3.2.31"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-pwa": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
-    "vue-template-compiler": "^2.6.11"
+    "@vue/cli-service": "^5.0.4"
   }
 }

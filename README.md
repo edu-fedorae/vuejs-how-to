@@ -1,25 +1,13 @@
-# vue-pwa-docker
+# Vue 3 App No CLI
 
-## Project setup
-```
-npm install
-```
+Vue 3 application created without using the Vue CLI
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+git clone https://github.com/edu-fedorae/vue3-app-no-cli.git
+cd vue3-app-no-cli
+yarn install
+yarn serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Docker build
-docker build -t vue-pwa-docker
-
-### Docker run
-docker run  -d -p 8080:8080 vue-pwa-docker
 
 ### Watch Video Tutorial
-[![Video thumbnail](https://i.ytimg.com/vi/e0EjwyPY-DE/hqdefault.jpg)](https://www.youtube.com/watch?v=e0EjwyPY-DE&list=PL0kQPOHhjroKcfFbVzwJoXujvahpemEHV&index=4)
+[![Video thumbnail](https://i.ytimg.com/vi/yY1aUPRlUZg/hqdefault.jpg)](https://www.youtube.com/watch?v=yY1aUPRlUZg&list=PL0kQPOHhjroKcfFbVzwJoXujvahpemEHV&index=8)
