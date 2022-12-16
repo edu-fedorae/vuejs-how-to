@@ -1,14 +1,30 @@
-# Vite App No CLI
+# How To Install Vuetify 3
 
-Vite Vue 3 application created without using the Vue CLI
-
+## Project setup
 ```
-git clone https://github.com/edu-fedorae/vuejs-how-to.git
-cd vuejs-how-to
+git clone https://github.com/edu-fedorae/vuejs-how-to.git repo-name
+cd repo-name
 git checkout vite-no-cli
 yarn install
+```
+
+### Compiles and hot-reloads for development
+```
 yarn serve
 ```
 
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 ### Watch Video Tutorial
-[![Video thumbnail](https://i.ytimg.com/vi/f6uZVQSlryU/hqdefault.jpg)](https://www.youtube.com/watch?v=f6uZVQSlryU&list=PL0kQPOHhjroKcfFbVzwJoXujvahpemEHV&index=9)
+[![Video thumbnail](https://i.ytimg.com/vi/g4L9VSbM4Z0/hqdefault.jpg?)](https://www.youtube.com/watch?v=g4L9VSbM4Z0&list=PL0kQPOHhjroKcfFbVzwJoXujvahpemEHV&index=11)
