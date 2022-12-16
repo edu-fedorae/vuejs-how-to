@@ -3,8 +3,9 @@
 Vue 3 application created without using the Vue CLI
 
 ```
-git clone https://github.com/edu-fedorae/vue3-app-no-cli.git
-cd vue3-app-no-cli
+git clone https://github.com/edu-fedorae/vuejs-how-to.git
+cd vuejs-how-to
+git checkout vue3-no-cli
 yarn install
 yarn serve
 ```
