@@ -1,24 +1,22 @@
-# Vuejs How To Examples
-```
-git clone https://github.com/edu-fedorae/vuejs-how-to.git
-cd vuejs-how-to
-git checkout [branch]
-```
+# vue-pwa-docker
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm run build
 ```
 
-### YouTube
-See [Playlist](https://www.youtube.com/watch?v=Re7FnxBVNoA&list=PL0kQPOHhjroJ1pQID3yvB8BomL_lkizq9).
+### Docker build
+docker build -t vue-pwa-docker
+
+### Docker run
+docker run  -d -p 8080:8080 vue-pwa-docker
